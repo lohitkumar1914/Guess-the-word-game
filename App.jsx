@@ -133,7 +133,7 @@ export default function AssemblyEndgame() {
   return (
     <main style={mainStyle}>
       <header>
-        <h1>Assembly: Endgame</h1>
+        <h1>Guess the word game</h1>
         <p>
           Guess the word within 8 attempts to keep the programming world safe
           from Assembly!
